@@ -1,0 +1,51 @@
+body {
+ background: black;
+ background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://uk.louisvuitton.com/images/is/image/AEL-LG-D05_damier_graphite);
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-color: rgba(0, 0, 0, 0.8);
+}
+
+h1 {
+ text-align: center;
+ font-family: Arial, sans-serif;
+ color: white;
+}
+
+p {
+ text-align: center;
+ font-size: 20px;
+ font-family: Arial, sans-serif;
+ width: 50%;
+ margin: 20px auto;
+ color: white;
+}
+
+table {
+ border-radius: 10px;
+ margin: 0 auto;
+ width: 50%;
+ text-align: center;
+ border-collapse: collapse;
+ box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.9);
+ background-color: rgba(0, 0, 0, 0.5);
+ color: white;
+}
+
+th, td {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+ font-family: Arial, sans-serif;
+ min-width: 100px;
+ padding: 20px;
+}
+
+th {
+ background-color: rgba(0, 0, 0, 0.8);
+ color: white;
+ font-weight: 900;
+}
+
+tr:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
