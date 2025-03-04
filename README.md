@@ -1,2 +1,1 @@
-This is my first project that I made by an exercise from Codeacademy.
-The language is Dutch if you want to translate it.
+This is my first project, which I made as part of an exercise from Codecademy. The language is Dutch, in case you want to translate it.
